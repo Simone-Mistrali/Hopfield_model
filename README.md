@@ -24,7 +24,7 @@ Given a pattern <a href="https://www.codecogs.com/eqnedit.php?latex=\xi^\mu=\lef
 
 <img src="https://latex.codecogs.com/gif.latex?J_{ij}=&space;\frac{1}{N}\sum_{\mu=0}^{P-1}\xi^\mu_i\xi^\mu_j" title="J_{ij}= \frac{1}{N}\sum_{\mu=0}^{P-1}\xi^\mu_i\xi^\mu_j" />
 
- where <img src="https://latex.codecogs.com/gif.latex?P" title="P" /> in the number of patterns. For semplicity we apply the so called *Hebb’s rule*, so we neglect the auto-interation .<a href="https://www.codecogs.com/eqnedit.php?latex=J_{ij}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?J_{ij}=0" title="J_{ij}=0" /></a>
+ where <img src="https://latex.codecogs.com/gif.latex?P" title="P" /> in the number of patterns. For semplicity we apply the so called *Hebb’s rule*, so we neglect the auto-interation <a href="https://www.codecogs.com/eqnedit.php?latex=J_{ij}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?J_{ij}=0" title="J_{ij}=0" /></a>.
 
 We use the following update rule (i.e *sign* rule):
 
